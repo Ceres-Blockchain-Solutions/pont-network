@@ -1,0 +1,15 @@
+[submodule "pont-network-contracts"]
+	path = pont-network-contracts
+	url = https://github.com/Ceres-Blockchain-Solutions/pont-network-contracts
+[submodule "pont-network-backend"]
+	path = pont-network-backend
+	url = https://github.com/Ceres-Blockchain-Solutions/pont-network-backend
+[submodule "pont-network-indexer"]
+	path = pont-network-indexer
+	url = https://github.com/Ceres-Blockchain-Solutions/pont-network-indexer
+[submodule "pont-network-management-frontend"]
+	path = pont-network-management-frontend
+	url = https://github.com/Ceres-Blockchain-Solutions/pont-network-management-frontend
+[submodule "pont-network-observer-frontend"]
+	path = pont-network-observer-frontend
+	url = https://github.com/Ceres-Blockchain-Solutions/pont-network-observer-frontend
