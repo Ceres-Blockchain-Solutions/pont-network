@@ -1,5 +1,7 @@
 # Pont Network
 Pont Network offers a revolutionary blockchain-based solution to transform record-keeping in the maritime industry. By leveraging the power of blockchain technology, Pont Network creates a secure, tamper-proof, and transparent record of a ship's history.
+<br><br>
+Pont offers real-time visibility and tracking for all observer stations, improving tracking efficiency and minimizing delays. As a blockchain solution, it ensures a secure and decentralized system with immutable records and distributed storage, effectively eliminating fraudulent activities and maintaining data integrity. Additionally, Pont enhances cybersecurity by implementing robust protocols to safeguard against data breaches and unauthorized access.
 
 ## Progress so far
 🤝 Working on collaboration with the Faculty of Maritime Studies in Rijeka, one of the most prestigious maritime faculties in Europe. <br>
